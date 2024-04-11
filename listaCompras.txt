@@ -1,1 +1,7 @@
 huevos\nHarina\nAceite\nVinagre
+Leche
+Pan
+Lechuga
+Tomate
+Cebolla
+QuesoCremoso
